@@ -1,0 +1,7 @@
+name: NotSlashCommand
+main: notslash.main.SpigotPlugin
+version: 0.1
+commands:
+  cmdlogs:
+    description: Вывод логов
+    permission: notslashcommands.cmdlogs
